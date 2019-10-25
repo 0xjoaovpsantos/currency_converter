@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/joaovictorpsantos/calculate_imc/blob/master/images_readme/currency_converter.png" width="200" />
+  <img src="https://github.com/joaovictorpsantos/currency_converter/blob/master/images_readme/currency_converter.png" width="200" />
 </p>
 
 ## Key Features
